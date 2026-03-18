@@ -1,0 +1,4 @@
+class,filename,path,width,height,mode,format,md5,size_kb
+tụ_họp_verified,0346_d79805bc0361.png,data_train/tụ_họp_verified/0346_d79805bc0361.png,1024,559,RGB,PNG,d79805bc0361d406460cb86d900befaf,1069.09375
+other,tet_0001_b9ec44a6a1b8.jpg,data_train/other/tet_0001_b9ec44a6a1b8.jpg,1200,777,RGB,JPEG,b9ec44a6a1b88590b1559b90fcc39c4b,1086.6025390625
+other,0043_7c849c1b18ba.jpg,data_train/other/0043_7c849c1b18ba.jpg,1200,1200,RGB,JPEG,7c849c1b18ba2364f7685f141b9d10c0,128.5107421875
