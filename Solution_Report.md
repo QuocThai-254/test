@@ -83,6 +83,12 @@ Images from different sources (web-scraped, digital art, phone photos) often com
 
 ![Data Preprocessing](./images/image_6.png)
 
+Image dimensions of train dataset:
+![Data Preprocessing](./images/img_dims_data_train.png)
+
+Image dimensions of test dataset:
+![Data Preprocessing](./images/img_dims_data_test.png)
+
 ### 3.2. Resolution: The 224x224 "Sweet Spot"
 I resized all images to 224x224 pixels. 
 - **Why?**: This resolution is the native input size for the majority of the world's most advanced vision models (ResNet, ConvNeXt, EfficientNet). Standardizing to this size allows us to leverage pre-trained weights without losing spatial information.
